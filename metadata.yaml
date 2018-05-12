@@ -1,0 +1,29 @@
+_repo: Els-Herois_17583
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bertrana, Prudenci
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '7472'
+    url: http://www.gutenberg.org/2009/agents/7472
+    wikipedia: http://ca.wikipedia.org/wiki/Prudenci_Bertrana
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17583'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PC'
+tableOfContents: Pòrtic -- En Quimet o el rebuig del diable -- En Carxofa -- En Busqueta
+  -- L'egua del jutge de pau -- La masovera se'n va al mercat -- El Cerdà.
+title: Els Herois
+url: http://www.gutenberg.org/ebooks/17583
